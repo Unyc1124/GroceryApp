@@ -141,7 +141,7 @@ Toggle the switch in the top-right of the Home screen. Theme persists across ses
 
 ---
 
-## 🎥 App Demo
+## App Demo
 
 <video src="video.mp4" controls width="400"></video>
 
